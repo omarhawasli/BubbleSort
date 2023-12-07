@@ -1,0 +1,6 @@
+C:\Users\Omar\RiderProjects\Bublesort\Bublesort\obj\Debug\Bublesort.csproj.AssemblyReference.cache
+C:\Users\Omar\RiderProjects\Bublesort\Bublesort\obj\Debug\Bublesort.csproj.CoreCompileInputs.cache
+C:\Users\Omar\RiderProjects\Bublesort\Bublesort\bin\Debug\Bublesort.exe
+C:\Users\Omar\RiderProjects\Bublesort\Bublesort\bin\Debug\Bublesort.pdb
+C:\Users\Omar\RiderProjects\Bublesort\Bublesort\obj\Debug\Bublesort.exe
+C:\Users\Omar\RiderProjects\Bublesort\Bublesort\obj\Debug\Bublesort.pdb
